@@ -1,0 +1,70 @@
+const express = require('express');
+const router = express.Router();
+const userControllerReportes = require('../controllers/userControllerReportes');
+const userControllerUser = require('../controllers/userControllerUser');
+const userControllerAccesos = require('../controllers/userControllerAccesos');
+const userControllerRoles = require('../controllers/userControllerRoles');
+const userControllerCargos = require('../controllers/userControllerCargo');
+const userControllerEmpleado = require('../controllers/userControllerEmpleados');
+const userControllerContrato = require('../controllers/userControllerContrato');
+const userControllerPuntoVenta = require('../controllers/userControllerPuntoVenta');
+const userControllerEmpleador = require('../controllers/userControllerEmpleador');
+const userControllerHorario = require('../controllers/userControllerHorario');
+const userControllerToken = require('../controllers/userControllerToken');
+const userControllerNotigicaciones = require('../controllers/userControllerNotificaciones');
+const { registrarCliente } = require('../utils/sseLogin');
+const authSSE = require('../middleware/authSSE');
+
+router.post('/validation', userControllerUser.validateUser);
+router.post('/forgot-password',userControllerUser.fotgotPass);
+router.post('/forgot-password-verify-code',userControllerUser.verifyCodeForgot);
+router.get('/validar-token', userControllerToken.getValidarToken);
+router.get('/eventos-login', registrarCliente);
+router.use(authSSE);
+
+router.post('/usuarios', userControllerUser.postUsers);
+router.post('/empleados', userControllerEmpleado.postEmpleados);
+router.post('/contrato', userControllerContrato.postContrato);
+router.post('/cargo', userControllerCargos.postCargos);
+router.post('/rol', userControllerRoles.postRole);
+router.post('/punto-venta', userControllerPuntoVenta.postPuntoVenta);
+router.post('/generar-contrato', userControllerContrato.postGenerarContrato);
+router.post('/empleador', userControllerEmpleador.postEmpleadores);
+router.post('/horario', userControllerHorario.postHorario);
+router.post('/generar-reporte', userControllerReportes.postGenerarReportes);
+router.post('/new-configuracion-notificaciones', userControllerNotigicaciones.postNotificacion);
+
+router.get('/accesos-ayer', userControllerAccesos.getAccesosAyer);
+router.get('/usuarios', userControllerUser.getUsers);
+router.get('/accesos-dia', userControllerAccesos.getAccesosDia);
+router.get('/roles', userControllerRoles.getRoles);
+router.get('/cargos', userControllerCargos.getCargo);
+router.get('/empleados', userControllerEmpleado.getEmpleados);
+router.get('/contratos', userControllerContrato.getContratos);
+router.get('/contratos-por-vencer', userControllerContrato.getContratosPorVencer);
+router.get('/puntos-venta', userControllerPuntoVenta.getPuntosVenta);
+router.get('/empleadores', userControllerEmpleador.getEmpleadores);
+router.get('/horarios', userControllerHorario.getHorarios);
+router.get('/configuracion-notificaciones', userControllerNotigicaciones.getNotificacion);
+
+router.put('/usuarios/:id', userControllerUser.putUsers);
+router.put('/usuarios-active/:id', userControllerUser.putUsersActivateState);
+router.put('/single-usuario/:id', userControllerUser.putSingleUser);
+router.put('/single-usuario-put-pass/:id', userControllerUser.putPassUser);
+router.put('/empleados/:id', userControllerEmpleado.putEmpleados);
+router.put('/contrato/:id', userControllerContrato.putContratoDesactivate);
+router.put('/cargo/:id', userControllerCargos.putCargo);
+router.put('/rol/:id', userControllerRoles.putRole);
+router.put('/punto-venta/:id', userControllerPuntoVenta.putPuntoVenta);
+router.put('/empleador/:id', userControllerEmpleador.putEmpleador);
+router.put('/contrato-prorroga/:id', userControllerContrato.putProrrogaContrato);
+
+router.delete('/usuarios/:id', userControllerUser.deleteUsers);
+router.delete('/empleado/:id', userControllerEmpleado.deleteEmpleado);
+router.delete('/cargo/:id', userControllerCargos.deleteCargo);
+router.delete('/rol/:id', userControllerRoles.deleteRole);
+router.delete('/punto-venta/:id', userControllerPuntoVenta.deletePuntoVenta);
+router.delete('/empleador/:id', userControllerEmpleador.deleteEmpleador);
+router.delete('/horario/:id', userControllerHorario.deleteHorario);
+
+module.exports = router;

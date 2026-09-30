@@ -1,0 +1,1802 @@
+[
+  {
+    "nombre": "CA Baranoa",
+    "fechas": {
+      "25/08/2025": {
+        "Jonathan Whiteside Polo": [
+          "08:12:13 a. m.",
+          "01:43:58 p. m.",
+          "03:34:58 p. m.",
+          "05:00:30 p. m."
+        ],
+        "Karolina Gonzalez Padilla": [
+          "03:40:30 p. m.",
+          "04:46:21 p. m.",
+          "09:37:58 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Jonathan Whiteside Polo": [
+          "08:11:26 a. m.",
+          "09:02:24 p. m."
+        ],
+        "Diego Moreno Torres": [
+          "12:10:36 p. m.",
+          "02:00:58 p. m.",
+          "03:36:48 p. m.",
+          "09:02:05 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Jonathan Whiteside Polo": [
+          "08:23:07 a. m.",
+          "01:12:37 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Diego Moreno Torres": [
+          "12:13:12 p. m.",
+          "01:59:47 p. m.",
+          "03:40:34 p. m."
+        ],
+        "Karolina Gonzalez Padilla": [
+          "12:53:29 p. m.",
+          "03:15:50 p. m.",
+          "04:51:31 p. m."
+        ],
+        "Jonathan Whiteside Polo": [
+          "03:01:15 p. m.",
+          "05:06:15 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Karolina Gonzalez Padilla": [
+          "12:57:04 p. m.",
+          "03:16:15 p. m."
+        ],
+        "Jonathan Whiteside Polo": [
+          "01:10:58 p. m.",
+          "03:02:14 p. m."
+        ],
+        "Diego Moreno Torres": [
+          "01:12:43 p. m.",
+          "03:22:19 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Jonathan Whiteside Polo": [
+          "03:03:48 p. m.",
+          "06:04:03 p. m."
+        ],
+        "Karolina Gonzalez Padilla": [
+          "03:14:30 p. m.",
+          "04:53:07 p. m."
+        ],
+        "Diego Moreno Torres": [
+          "03:19:24 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Diego Moreno Torres": [
+          "01:08:07 p. m."
+        ],
+        "Karolina Gonzalez Padilla": [
+          "01:31:09 p. m.",
+          "03:39:21 p. m."
+        ],
+        "Jonathan Whiteside Polo": [
+          "01:42:31 p. m.",
+          "03:30:21 p. m.",
+          "05:15:52 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA Bodega",
+    "fechas": {
+      "25/08/2025": {
+        "Gabriel carbonell": [
+          "07:34:28 a. m.",
+          "07:34:29 a. m.",
+          "05:26:42 p. m."
+        ],
+        "Luis david herazo": [
+          "07:34:54 a. m.",
+          "04:59:07 p. m."
+        ],
+        "Maria jose": [
+          "07:39:48 a. m.",
+          "05:48:04 p. m."
+        ],
+        "Duays adan": [
+          "07:41:03 a. m.",
+          "09:48:49 a. m."
+        ],
+        "Jorge luis piña": [
+          "07:47:45 a. m."
+        ],
+        "Farid Arteta Hernandez": [
+          "07:52:00 a. m.",
+          "05:25:59 p. m.",
+          "05:26:34 p. m."
+        ],
+        "Jesus david santana": [
+          "08:27:11 a. m.",
+          "06:12:49 p. m."
+        ],
+        "Katherine Paola Arango Polo": [
+          "08:29:19 a. m.",
+          "05:48:08 p. m."
+        ],
+        "Antony De Jesus Parra Barrios": [
+          "08:37:54 a. m."
+        ],
+        "Manuel pineda": [
+          "08:57:41 a. m."
+        ],
+        "Sheila Valentina": [
+          "09:01:48 a. m.",
+          "05:06:32 p. m."
+        ],
+        "Willian David Giraldo Figueroa": [
+          "09:01:55 a. m.",
+          "05:35:41 p. m."
+        ],
+        "Yuleidis cenith": [
+          "05:44:34 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Luis david herazo": [
+          "07:30:59 a. m.",
+          "05:07:15 p. m."
+        ],
+        "Jorge luis piña": [
+          "07:40:29 a. m."
+        ],
+        "Farid Arteta Hernandez": [
+          "07:40:42 a. m.",
+          "05:31:25 p. m."
+        ],
+        "Gabriel carbonell": [
+          "07:40:47 a. m.",
+          "05:48:42 p. m."
+        ],
+        "Maria jose": [
+          "07:54:34 a. m.",
+          "05:28:00 p. m."
+        ],
+        "Manuel pineda": [
+          "08:28:57 a. m."
+        ],
+        "Jesus david santana": [
+          "08:31:53 a. m.",
+          "08:31:55 a. m.",
+          "05:51:57 p. m."
+        ],
+        "Antony De Jesus Parra Barrios": [
+          "11:17:34 a. m.",
+          "05:28:06 p. m."
+        ],
+        "Sheila Valentina": [
+          "05:11:22 p. m."
+        ],
+        "Duays adan": [
+          "05:31:10 p. m."
+        ],
+        "Yuleidis cenith": [
+          "05:44:38 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Maria jose": [
+          "08:13:16 a. m.",
+          "05:31:54 p. m."
+        ],
+        "Antony De Jesus Parra Barrios": [
+          "08:29:02 a. m.",
+          "05:38:24 p. m."
+        ],
+        "Manuel pineda": [
+          "08:41:43 a. m."
+        ],
+        "Farid Arteta Hernandez": [
+          "07:40:29 a. m.",
+          "05:34:27 p. m."
+        ],
+        "Yuleidis cenith": [
+          "08:01:05 a. m.",
+          "06:15:05 p. m."
+        ],
+        "Sheila Valentina": [
+          "09:47:35 a. m.",
+          "04:55:06 p. m."
+        ],
+        "Mauro Enrique Anaya Jaraba": [
+          "10:08:46 a. m.",
+          "12:43:33 p. m.",
+          "05:39:08 p. m."
+        ],
+        "Luis david herazo": [
+          "05:45:01 p. m."
+        ],
+        "Duays adan": [
+          "06:02:19 p. m."
+        ],
+        "Jesus david santana": [
+          "06:29:03 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Jorge luis piña": [
+          "07:37:07 a. m."
+        ],
+        "Farid Arteta Hernandez": [
+          "07:39:55 a. m.",
+          "04:51:59 p. m."
+        ],
+        "Manuel pineda": [
+          "07:42:13 a. m."
+        ],
+        "Gabriel carbonell": [
+          "07:42:37 a. m.",
+          "05:12:16 p. m."
+        ],
+        "Maria jose": [
+          "07:43:57 a. m.",
+          "05:43:54 p. m."
+        ],
+        "Duays adan": [
+          "07:45:40 a. m."
+        ],
+        "Katherine Paola Arango Polo": [
+          "07:47:26 a. m.",
+          "05:43:58 p. m."
+        ],
+        "Antony De Jesus Parra Barrios": [
+          "08:25:31 a. m.",
+          "05:45:09 p. m."
+        ],
+        "Sheila Valentina": [
+          "09:08:50 a. m.",
+          "04:57:07 p. m."
+        ],
+        "Luis david herazo": [
+          "05:20:24 p. m."
+        ],
+        "Jesus david santana": [
+          "05:46:29 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Luis david herazo": [
+          "07:33:29 a. m."
+        ],
+        "Gabriel carbonell": [
+          "07:35:28 a. m.",
+          "05:21:52 p. m."
+        ],
+        "Maria jose": [
+          "07:40:25 a. m.",
+          "05:34:00 p. m."
+        ],
+        "Farid Arteta Hernandez": [
+          "07:40:57 a. m.",
+          "04:44:43 p. m."
+        ],
+        "Jorge luis piña": [
+          "07:42:08 a. m.",
+          "05:28:44 p. m."
+        ],
+        "Duays adan": [
+          "07:46:34 a. m."
+        ],
+        "Antony De Jesus Parra Barrios": [
+          "08:20:08 a. m.",
+          "12:59:40 p. m.",
+          "05:38:00 p. m."
+        ],
+        "Jesus david santana": [
+          "08:29:14 a. m.",
+          "05:54:52 p. m."
+        ],
+        "Manuel pineda": [
+          "08:33:44 a. m."
+        ],
+        "Sheila Valentina": [
+          "09:08:31 a. m.",
+          "05:34:05 p. m."
+        ],
+        "Katherine Paola Arango Polo": [
+          "05:37:44 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Jorge luis piña": [
+          "07:26:04 a. m.",
+          "03:13:04 p. m."
+        ],
+        "Manuel pineda": [
+          "07:31:18 a. m."
+        ],
+        "Gabriel carbonell": [
+          "07:31:27 a. m."
+        ],
+        "Jesus david santana": [
+          "07:41:01 a. m."
+        ],
+        "Maria jose": [
+          "08:06:14 a. m.",
+          "01:29:18 p. m."
+        ],
+        "Antony De Jesus Parra Barrios": [
+          "08:23:19 a. m.",
+          "02:47:35 p. m."
+        ],
+        "Sheila Valentina": [
+          "09:11:45 a. m.",
+          "12:32:30 p. m."
+        ],
+        "Yuleidis cenith": [
+          "01:02:27 p. m."
+        ],
+        "Katherine Paola Arango Polo": [
+          "03:02:47 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA CONCEP",
+    "fechas": {
+      "25/08/2025": {
+        "Juan Guillermo": [
+          "08:05:24 a. m.",
+          "03:47:33 p. m."
+        ],
+        "Leonardo Garcia Calanche": [
+          "08:05:31 a. m.",
+          "03:22:24 p. m."
+        ],
+        "Harol Cruz Castaneda": [
+          "01:13:11 p. m.",
+          "09:48:19 p. m."
+        ],
+        "Alberto Torregroza Maza": [
+          "01:38:51 p. m.",
+          "09:50:31 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Leonardo Garcia Calanche": [
+          "08:06:31 a. m.",
+          "01:29:12 p. m.",
+          "03:40:16 p. m."
+        ],
+        "Juan Guillermo": [
+          "08:06:25 a. m.",
+          "06:10:36 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Harol Cruz Castaneda": [
+          "01:11:20 p. m.",
+          "05:25:03 p. m."
+        ],
+        "Juan Guillermo": [
+          "01:26:13 p. m."
+        ],
+        "Leonardo Garcia Calanche": [
+          "01:26:39 p. m.",
+          "03:44:45 p. m."
+        ],
+        "Alberto Torregroza Maza": [
+          "09:45:12 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Harol Cruz Castaneda": [
+          "01:27:39 p. m.",
+          "05:34:58 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Harol Cruz Castaneda": [
+          "01:33:52 p. m.",
+          "05:03:52 p. m.",
+          "06:18:57 p. m.",
+          "10:19:57 p. m."
+        ],
+        "Alberto Torregroza Maza": [
+          "01:44:52 p. m.",
+          "10:23:40 p. m.",
+          "10:23:41 p. m."
+        ],
+        "Leonardo Garcia Calanche": [
+          "02:34:59 p. m.",
+          "04:43:39 p. m.",
+          "06:08:20 p. m."
+        ],
+        "Juan Guillermo": [
+          "06:19:03 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Juan Guillermo": [
+          "08:06:17 a. m.",
+          "06:43:20 p. m."
+        ],
+        "Leonardo Garcia Calanche": [
+          "08:11:54 a. m.",
+          "02:47:20 p. m.",
+          "06:10:19 p. m."
+        ],
+        "Harol Cruz Castaneda": [
+          "01:24:47 p. m.",
+          "10:31:22 p. m."
+        ],
+        "Jhonatan De La Rosa": [
+          "10:31:27 p. m.",
+          "10:31:28 p. m."
+        ],
+        "Alberto Torregroza Maza": [
+          "10:29:40 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Juan Guillermo": [
+          "08:06:28 a. m.",
+          "05:21:00 p. m."
+        ],
+        "Leonardo Garcia Calanche": [
+          "08:06:32 a. m.",
+          "02:51:48 p. m.",
+          "05:10:09 p. m."
+        ],
+        "Harol Cruz Castaneda": [
+          "10:11:41 p. m."
+        ],
+        "Alberto Torregroza Maza": [
+          "10:12:12 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA Estrellas",
+    "fechas": {
+      "25/08/2025": {
+        "Katty Juliet Quintana Charris": [
+          "09:06:04 a. m.",
+          "01:45:07 p. m.",
+          "05:32:53 p. m."
+        ],
+        "Anyelo Fontalvo": [
+          "12:31:44 p. m."
+        ],
+        "Luis Angel Pertuz Miele": [
+          "01:16:53 p. m.",
+          "01:17:05 p. m.",
+          "08:37:29 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Katty Juliet Quintana Charris": [
+          "09:08:01 a. m.",
+          "08:36:05 p. m."
+        ],
+        "Anyelo Fontalvo": [
+          "12:30:30 p. m.",
+          "08:36:27 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Katty Juliet Quintana Charris": [
+          "09:14:20 a. m."
+        ],
+        "Luis Angel Pertuz Miele": [
+          "01:07:37 p. m.",
+          "01:07:45 p. m.",
+          "08:24:18 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Luis Angel Pertuz Miele": [
+          "01:13:22 p. m.",
+          "01:13:24 p. m.",
+          "03:08:30 p. m.",
+          "04:31:27 p. m.",
+          "08:54:59 p. m."
+        ],
+        "Katty Juliet Quintana Charris": [
+          "01:34:30 p. m.",
+          "02:59:56 p. m."
+        ],
+        "Anyelo Fontalvo": [
+          "08:54:02 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Katty Juliet Quintana Charris": [
+          "09:18:17 a. m."
+        ],
+        "Anyelo Fontalvo": [
+          "09:18:28 a. m.",
+          "06:02:32 p. m."
+        ],
+        "Luis Angel Pertuz Miele": [
+          "01:10:43 p. m.",
+          "09:47:28 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Katty Juliet Quintana Charris": [
+          "09:09:25 a. m.",
+          "05:50:28 p. m."
+        ],
+        "Luis Angel Pertuz Miele": [
+          "01:50:35 p. m.",
+          "09:47:40 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Katty Juliet Quintana Charris": [
+          "09:08:47 a. m."
+        ],
+        "Anyelo Fontalvo": [
+          "01:12:38 p. m.",
+          "09:46:51 p. m."
+        ],
+        "Luis Angel Pertuz Miele": [
+          "01:21:40 p. m.",
+          "09:48:19 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA Galapa",
+    "fechas": {
+      "25/08/2025": {
+        "Alain Ortega": [
+          "01:23:17 p. m."
+        ],
+        "Elizabeth Alvarez Florez": [
+          "01:32:50 p. m.",
+          "05:05:01 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Alain Ortega": [
+          "12:54:25 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Elizabeth Alvarez Florez": [
+          "12:52:17 p. m.",
+          "08:58:11 p. m."
+        ],
+        "Julian Arregoces": [
+          "01:01:09 p. m.",
+          "08:58:21 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Elizabeth Alvarez Florez": [
+          "08:00:19 a. m.",
+          "01:16:01 p. m.",
+          "05:05:07 p. m."
+        ],
+        "Julian Arregoces": [
+          "01:00:43 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Alain Ortega": [
+          "01:01:46 p. m.",
+          "03:24:53 p. m.",
+          "04:51:06 p. m."
+        ],
+        "Libardo Lara Araujo": [
+          "01:06:52 p. m."
+        ],
+        "Elizabeth Alvarez Florez": [
+          "01:17:42 p. m.",
+          "03:16:18 p. m.",
+          "05:06:43 p. m."
+        ],
+        "Julian Arregoces": [
+          "01:18:35 p. m.",
+          "02:59:01 p. m.",
+          "05:07:23 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Alain Ortega": [
+          "12:59:21 p. m.",
+          "03:25:35 p. m.",
+          "04:57:41 p. m."
+        ],
+        "Julian Arregoces": [
+          "01:21:20 p. m.",
+          "03:04:21 p. m.",
+          "06:00:21 p. m."
+        ],
+        "Elizabeth Alvarez Florez": [
+          "01:28:37 p. m.",
+          "03:30:10 p. m.",
+          "06:00:13 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Julian Arregoces": [
+          "08:07:37 a. m.",
+          "03:47:08 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA Hipodromo",
+    "fechas": {
+      "25/08/2025": {
+        "Sebastian Javier Bonfante Toncel": [
+          "01:59:47 p. m.",
+          "03:40:34 p. m.",
+          "05:17:37 p. m."
+        ],
+        "SERGIO MARTINEZ": [
+          "02:15:16 p. m.",
+          "08:39:39 p. m."
+        ],
+        "Liliana De Avila Orozco": [
+          "04:15:24 p. m."
+        ],
+        "Desconocido": [
+          "09:28:49 a. m.",
+          "09:30:35 a. m.",
+          "01:59:47 p. m.",
+          "02:15:16 p. m.",
+          "03:40:34 p. m.",
+          "04:15:24 p. m.",
+          "05:17:37 p. m.",
+          "08:39:39 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Liliana De Avila Orozco": [
+          "09:30:49 a. m.",
+          "08:08:10 p. m."
+        ],
+        "Sebastian Javier Bonfante Toncel": [
+          "09:30:55 a. m.",
+          "04:00:10 p. m."
+        ],
+        "Desconocido": [
+          "09:30:49 a. m.",
+          "09:30:55 a. m.",
+          "04:00:10 p. m.",
+          "08:08:10 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Liliana De Avila Orozco": [
+          "09:45:51 a. m.",
+          "01:25:05 p. m."
+        ],
+        "Sebastian Javier Bonfante Toncel": [
+          "09:47:49 a. m.",
+          "12:50:01 p. m.",
+          "02:40:22 p. m."
+        ],
+        "SERGIO MARTINEZ": [
+          "01:08:57 p. m."
+        ],
+        "Sebastián Javier Bonfante": [
+          "05:32:26 p. m."
+        ],
+        "Jesús Anthony Marín Díaz": [
+          "07:58:43 p. m."
+        ],
+        "Desconocido": [
+          "09:45:51 a. m.",
+          "09:47:49 a. m.",
+          "12:50:01 p. m.",
+          "01:08:57 p. m.",
+          "01:25:05 p. m.",
+          "02:40:22 p. m.",
+          "04:03:58 p. m.",
+          "04:04:12 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Liliana De Avila Orozco": [
+          "09:23:55 a. m."
+        ],
+        "Sebastián Javier Bonfante": [
+          "09:32:40 a. m.",
+          "01:50:06 p. m.",
+          "03:37:16 p. m.",
+          "05:34:58 p. m."
+        ],
+        "Jesús Anthony Marín Díaz": [
+          "01:05:38 p. m.",
+          "08:54:24 p. m."
+        ],
+        "Sergio Andres Martinez": [
+          "02:10:35 p. m.",
+          "08:54:09 p. m."
+        ],
+        "Liliana Paola De Avila Orozco": [
+          "03:32:49 p. m."
+        ],
+        "Desconocido": [
+          "09:23:55 a. m."
+        ]
+      },
+      "29/08/2025": {
+        "Liliana Paola De Avila Orozco": [
+          "09:29:49 a. m.",
+          "04:03:49 p. m."
+        ],
+        "Sebastián Javier Bonfante": [
+          "09:29:54 a. m.",
+          "01:09:49 p. m.",
+          "06:26:13 p. m."
+        ],
+        "Jesús Anthony Marín Díaz": [
+          "01:08:05 p. m.",
+          "03:04:02 p. m.",
+          "04:06:04 p. m."
+        ],
+        "Sergio Andres Martinez": [
+          "02:45:05 p. m.",
+          "09:35:56 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Liliana Paola De Avila Orozco": [
+          "09:06:24 a. m.",
+          "04:56:07 p. m."
+        ],
+        "Sebastián Javier Bonfante": [
+          "09:06:29 a. m.",
+          "03:02:18 p. m.",
+          "04:30:54 p. m.",
+          "06:23:47 p. m."
+        ],
+        "Jesús Anthony Marín Díaz": [
+          "12:59:09 p. m.",
+          "09:37:05 p. m."
+        ],
+        "Sergio Andres Martinez": [
+          "02:36:53 p. m.",
+          "09:37:03 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Liliana Paola De Avila Orozco": [
+          "09:12:06 a. m.",
+          "04:49:26 p. m."
+        ],
+        "Sebastián Javier Bonfante": [
+          "09:12:35 a. m.",
+          "01:47:59 p. m.",
+          "06:27:01 p. m."
+        ],
+        "Jesús Anthony Marín Díaz": [
+          "01:03:29 p. m.",
+          "09:36:54 p. m."
+        ],
+        "Sergio Andres Martinez": [
+          "02:30:53 p. m.",
+          "09:36:47 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA KIKOS 93",
+    "fechas": {
+      "25/08/2025": {
+        "Miguel Anglen Miranda Mojica": [
+          "08:59:08 a. m.",
+          "12:28:59 p. m.",
+          "03:09:28 p. m.",
+          "05:48:49 p. m."
+        ],
+        "Karolay Angel Pertuz": [
+          "01:57:17 p. m.",
+          "04:07:19 p. m.",
+          "05:03:15 p. m.",
+          "10:35:52 p. m."
+        ],
+        "David felipe estrada": [
+          "02:09:01 p. m.",
+          "04:36:35 p. m.",
+          "05:34:15 p. m.",
+          "10:31:43 p. m.",
+          "10:31:44 p. m."
+        ],
+        "Melisa andrea": [
+          "02:12:49 p. m.",
+          "04:03:33 p. m.",
+          "05:08:27 p. m."
+        ],
+        "Martin alonso": [
+          "07:02:40 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Katherine Paola Arango Polo": [
+          "08:26:16 a. m.",
+          "05:24:30 p. m."
+        ],
+        "Sheila Valentina": [
+          "08:49:08 a. m."
+        ],
+        "Miguel Anglen Miranda Mojica": [
+          "09:12:21 a. m.",
+          "01:22:17 p. m.",
+          "02:57:17 p. m.",
+          "05:33:30 p. m.",
+          "05:37:37 p. m."
+        ],
+        "Karolay Angel Pertuz": [
+          "01:59:22 p. m."
+        ],
+        "David felipe estrada": [
+          "02:12:26 p. m.",
+          "03:03:59 p. m.",
+          "04:01:39 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Katherine Paola Arango Polo": [
+          "08:31:36 a. m."
+        ],
+        "Melisa andrea": [
+          "08:00:29 a. m.",
+          "02:12:55 p. m.",
+          "03:56:58 p. m.",
+          "05:05:27 p. m."
+        ],
+        "Karolay Angel Pertuz": [
+          "02:03:15 p. m.",
+          "04:02:56 p. m.",
+          "05:03:57 p. m."
+        ],
+        "David felipe estrada": [
+          "02:10:28 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Melisa andrea": [
+          "08:00:31 a. m.",
+          "02:18:09 p. m.",
+          "03:56:02 p. m.",
+          "05:10:34 p. m."
+        ],
+        "Miguel Anglen Miranda Mojica": [
+          "09:08:54 a. m.",
+          "01:24:00 p. m.",
+          "02:55:08 p. m.",
+          "06:05:41 p. m."
+        ],
+        "Karolay Angel Pertuz": [
+          "02:02:05 p. m.",
+          "04:08:54 p. m.",
+          "05:05:29 p. m.",
+          "10:44:41 p. m."
+        ],
+        "David felipe estrada": [
+          "02:07:30 p. m.",
+          "04:32:31 p. m.",
+          "05:34:24 p. m.",
+          "10:42:52 p. m."
+        ],
+        "Luis david herazo": [
+          "02:27:06 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Melisa andrea": [
+          "08:10:41 a. m.",
+          "04:01:07 p. m.",
+          "04:07:09 p. m."
+        ],
+        "Katherine Paola Arango Polo": [
+          "08:31:33 a. m."
+        ],
+        "Miguel Anglen Miranda Mojica": [
+          "09:09:23 a. m.",
+          "12:53:36 p. m.",
+          "02:24:36 p. m.",
+          "07:25:25 p. m."
+        ],
+        "Karolay Angel Pertuz": [
+          "01:59:41 p. m.",
+          "03:28:52 p. m.",
+          "04:01:54 p. m.",
+          "10:50:13 p. m."
+        ],
+        "David felipe estrada": [
+          "01:59:44 p. m.",
+          "10:50:23 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Melisa andrea": [
+          "08:01:05 a. m.",
+          "02:08:17 p. m.",
+          "03:57:11 p. m.",
+          "06:00:15 p. m.",
+          "06:06:23 p. m."
+        ],
+        "Jesus david santana": [
+          "08:01:09 a. m."
+        ],
+        "Miguel Anglen Miranda Mojica": [
+          "09:02:27 a. m.",
+          "01:32:59 p. m.",
+          "03:07:00 p. m.",
+          "07:04:31 p. m."
+        ],
+        "Karolay Angel Pertuz": [
+          "01:57:43 p. m.",
+          "04:11:10 p. m.",
+          "05:10:27 p. m.",
+          "10:35:53 p. m."
+        ],
+        "David felipe estrada": [
+          "02:02:55 p. m.",
+          "04:04:53 p. m.",
+          "05:06:12 p. m.",
+          "10:35:44 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Melisa andrea": [
+          "08:08:04 a. m.",
+          "02:43:31 p. m.",
+          "04:37:00 p. m.",
+          "05:55:13 p. m."
+        ],
+        "Miguel Anglen Miranda Mojica": [
+          "09:04:17 a. m.",
+          "01:30:19 p. m.",
+          "03:00:58 p. m.",
+          "05:41:56 p. m."
+        ],
+        "David felipe estrada": [
+          "03:49:33 p. m.",
+          "04:49:06 p. m.",
+          "10:32:34 p. m."
+        ],
+        "Karolay Angel Pertuz": [
+          "02:28:57 p. m.",
+          "04:41:39 p. m.",
+          "05:44:11 p. m.",
+          "10:33:30 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA LA 2",
+    "fechas": {
+      "25/08/2025": {
+        "Miryam Payares Gonzales": [
+          "08:58:06 a. m.",
+          "05:34:53 p. m."
+        ],
+        "Jaime Enrrique Jimenez Blanco": [
+          "11:00:29 a. m.",
+          "08:09:04 p. m."
+        ],
+        "Marjavi Charris Cano": [
+          "12:50:25 p. m.",
+          "08:50:34 p. m."
+        ],
+        "Reye Junior Escorcia Ruiz": [
+          "08:50:44 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Miryam Payares Gonzales": [
+          "09:01:26 a. m."
+        ],
+        "Jaime Enrrique Jimenez Blanco": [
+          "10:50:30 a. m.",
+          "10:52:42 a. m.",
+          "10:52:43 a. m.",
+          "08:08:35 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Jaime Enrrique Jimenez Blanco": [
+          "10:28:47 a. m.",
+          "10:29:54 a. m.",
+          "10:29:55 a. m."
+        ],
+        "Reye Junior Escorcia Ruiz": [
+          "11:53:57 a. m.",
+          "08:23:12 p. m."
+        ],
+        "Marjavi Charris Cano": [
+          "12:39:24 p. m.",
+          "08:23:28 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Miryam Payares Gonzales": [
+          "09:16:19 a. m.",
+          "05:48:36 p. m."
+        ],
+        "Jaime Enrrique Jimenez Blanco": [
+          "11:49:03 a. m.",
+          "11:49:04 a. m.",
+          "08:10:24 p. m."
+        ],
+        "Reye Junior Escorcia Ruiz": [
+          "12:38:22 p. m."
+        ],
+        "Marjavi Charris Cano": [
+          "12:42:49 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Jaime Enrrique Jimenez Blanco": [
+          "10:58:35 a. m.",
+          "10:58:44 a. m."
+        ],
+        "Marjavi Charris Cano": [
+          "12:47:49 p. m.",
+          "04:07:38 p. m.",
+          "05:06:12 p. m."
+        ],
+        "Reye Junior Escorcia Ruiz": [
+          "01:10:58 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Jaime Enrrique Jimenez Blanco": [
+          "08:54:24 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA LA 38",
+    "fechas": {
+      "25/08/2025": {
+        "Carmen Charris Prasca": [
+          "08:29:13 a. m.",
+          "05:26:17 p. m."
+        ],
+        "Victor Angel": [
+          "08:29:22 a. m.",
+          "04:59:27 p. m."
+        ],
+        "Heidy Ortega Guzman": [
+          "01:36:43 p. m.",
+          "01:36:44 p. m.",
+          "09:38:25 p. m."
+        ],
+        "Abraham schmalbach": [
+          "09:38:30 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Victor Angel": [
+          "04:57:52 p. m."
+        ],
+        "Carmen Charris Prasca": [
+          "10:04:44 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Carmen Charris Prasca": [
+          "08:27:23 a. m.",
+          "01:50:47 p. m."
+        ],
+        "Heidy Ortega Guzman": [
+          "01:04:59 p. m.",
+          "09:49:47 p. m."
+        ],
+        "Carlos Manuel Cantillo Ortiz": [
+          "07:08:55 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Carmen Charris Prasca": [
+          "08:32:55 a. m.",
+          "05:16:08 p. m."
+        ],
+        "Victor Angel": [
+          "01:07:34 p. m.",
+          "10:03:06 p. m."
+        ],
+        "Heidy Ortega Guzman": [
+          "02:02:51 p. m.",
+          "10:03:24 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Carmen Charris Prasca": [
+          "08:42:15 a. m.",
+          "06:17:50 p. m."
+        ],
+        "Victor Angel": [
+          "08:42:28 a. m.",
+          "05:57:36 p. m."
+        ],
+        "Carlos Manuel Cantillo Ortiz": [
+          "08:02:55 p. m."
+        ],
+        "Heidy Ortega Guzman": [
+          "10:29:42 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Carmen Charris Prasca": [
+          "08:37:41 a. m."
+        ],
+        "Victor Angel": [
+          "08:37:56 a. m.",
+          "05:53:21 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA Moras",
+    "fechas": {
+      "25/08/2025": {
+        "Jelraldy Martinez": [
+          "09:01:54 a. m.",
+          "01:47:52 p. m.",
+          "03:01:43 p. m.",
+          "05:36:10 p. m."
+        ],
+        "Jose Ascanio Arrieta": [
+          "07:57:27 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Jelraldy Martinez": [
+          "09:06:58 a. m.",
+          "07:29:40 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Jelraldy Martinez": [
+          "09:05:47 a. m.",
+          "01:15:56 p. m."
+        ],
+        "Jose Ascanio Arrieta": [
+          "12:31:31 p. m.",
+          "07:28:20 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Jelraldy Martinez": [
+          "09:04:08 a. m.",
+          "12:39:49 p. m.",
+          "02:03:25 p. m.",
+          "05:35:44 p. m."
+        ],
+        "Jose Ascanio Arrieta": [
+          "12:00:14 p. m.",
+          "07:57:41 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Jelraldy Martinez": [
+          "09:02:28 a. m.",
+          "12:52:48 p. m.",
+          "02:13:14 p. m.",
+          "06:09:50 p. m."
+        ],
+        "Jose Ascanio Arrieta": [
+          "09:34:07 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Jelraldy Martinez": [
+          "09:02:33 a. m.",
+          "01:54:59 p. m.",
+          "03:40:57 p. m.",
+          "06:38:23 p. m."
+        ],
+        "Jose Ascanio Arrieta": [
+          "08:57:28 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Jelraldy Martinez": [
+          "09:06:59 a. m."
+        ],
+        "Jose Ascanio Arrieta": [
+          "11:27:09 a. m.",
+          "09:05:19 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CA Villa Carolina",
+    "fechas": {
+      "25/08/2025": {
+        "Daniel Ricardo Osorio": [
+          "03:31:57 p. m.",
+          "10:30:21 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Yesica Perez": [
+          "10:21:50 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Yesica Perez": [
+          "08:36:59 a. m.",
+          "01:53:34 p. m."
+        ],
+        "Daniel Ricardo Osorio": [
+          "10:33:03 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Yesica Perez": [
+          "08:34:36 a. m."
+        ],
+        "Daniel Ricardo Osorio": [
+          "03:38:47 p. m.",
+          "10:34:51 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Daniel Ricardo Osorio": [
+          "08:43:18 a. m."
+        ],
+        "Yesica Perez": [
+          "01:27:38 p. m.",
+          "10:48:43 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Daniel Ricardo Osorio": [
+          "02:55:03 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Daniel Ricardo Osorio": [
+          "03:35:33 p. m."
+        ],
+        "Desconocido": [
+          "12:00:00 a. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CONTROL AC",
+    "fechas": {
+      "25/08/2025": {
+        "Bladimir Manuel Vega Perez": [
+          "08:52:11 a. m.",
+          "05:01:55 p. m."
+        ],
+        "Gisella Maria Granado Rivera": [
+          "01:31:12 p. m.",
+          "08:46:03 p. m."
+        ],
+        "Desconocido": [
+          "08:52:11 a. m.",
+          "05:01:55 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Bladimir Manuel Vega Perez": [
+          "09:09:35 a. m."
+        ],
+        "Bladimir Manuel Vega": [
+          "08:26:33 p. m."
+        ],
+        "Desconocido": [
+          "09:09:35 a. m."
+        ]
+      },
+      "27/08/2025": {
+        "Bladimir Manuel Vega": [
+          "09:05:13 a. m.",
+          "12:58:11 p. m."
+        ],
+        "Gisella Maria Granado Rivera": [
+          "12:35:26 p. m.",
+          "08:30:21 p. m."
+        ],
+        "Joel David Ortega Bolivar": [
+          "06:37:15 p. m."
+        ],
+        "Miguel Ángel González González": [
+          "08:30:16 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Bladimir Manuel Vega": [
+          "09:03:34 a. m."
+        ],
+        "Joel David Ortega Bolivar": [
+          "12:30:39 p. m.",
+          "08:32:20 p. m."
+        ],
+        "Miguel Ángel González González": [
+          "12:34:12 p. m.",
+          "09:00:05 p. m."
+        ],
+        "Gisella Maria Granado Rivera": [
+          "09:00:15 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Bladimir Manuel Vega": [
+          "09:03:17 a. m.",
+          "06:05:47 p. m."
+        ],
+        "Joel David Ortega Bolivar": [
+          "12:28:42 p. m.",
+          "08:25:17 p. m."
+        ],
+        "Miguel Ángel González González": [
+          "01:24:29 p. m.",
+          "10:01:01 p. m."
+        ],
+        "Gisella Maria Granado Rivera": [
+          "01:28:15 p. m.",
+          "10:00:56 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Bladimir Manuel Vega": [
+          "08:58:20 a. m.",
+          "06:06:55 p. m."
+        ],
+        "Joel David Ortega Bolivar": [
+          "12:30:33 p. m.",
+          "08:39:34 p. m."
+        ],
+        "Gisella Maria Granado Rivera": [
+          "10:02:17 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Joel David Ortega Bolivar": [
+          "12:30:05 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "CONTROL DE ACCESO",
+    "fechas": {
+      "25/08/2025": {
+        "Daniel Barandica Padilla": [
+          "08:36:37 a. m.",
+          "01:20:31 p. m.",
+          "03:08:48 p. m.",
+          "05:14:32 p. m."
+        ],
+        "Fernando betancour arias": [
+          "03:19:23 p. m.",
+          "04:52:55 p. m.",
+          "08:49:29 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Fernando betancour arias": [
+          "08:55:27 a. m.",
+          "08:51:46 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Daniel Barandica Padilla": [
+          "08:32:00 a. m."
+        ],
+        "Fernando betancour arias": [
+          "08:52:25 a. m.",
+          "09:06:57 a. m."
+        ],
+        "Daniel Santos Barandica Padilla": [
+          "04:41:17 p. m.",
+          "04:41:19 p. m.",
+          "09:06:22 p. m."
+        ],
+        "Dilan Bernal García": [
+          "04:41:41 p. m.",
+          "04:41:43 p. m.",
+          "04:41:46 p. m.",
+          "04:41:55 p. m.",
+          "09:06:31 p. m."
+        ],
+        "Jovana Patricia De Jesús Meneses Rodríguez": [
+          "04:44:47 p. m.",
+          "06:09:18 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Daniel Santos Barandica Padilla": [
+          "08:39:42 a. m.",
+          "09:04:44 p. m."
+        ],
+        "Jovana Patricia De Jesús Meneses Rodríguez": [
+          "08:40:07 a. m.",
+          "12:23:38 p. m.",
+          "01:16:59 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Daniel Santos Barandica Padilla": [
+          "08:47:02 a. m.",
+          "06:00:27 p. m."
+        ],
+        "Dilan Bernal García": [
+          "11:20:26 a. m.",
+          "08:32:22 p. m."
+        ],
+        "Fernando betancour arias": [
+          "01:13:40 p. m.",
+          "05:24:38 p. m.",
+          "09:59:16 p. m."
+        ],
+        "Jovana Patricia De Jesús Meneses Rodríguez": [
+          "01:37:13 p. m.",
+          "03:09:10 p. m.",
+          "06:01:35 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Daniel Santos Barandica Padilla": [
+          "08:58:50 a. m.",
+          "05:55:23 p. m."
+        ],
+        "Jovana Patricia De Jesús Meneses Rodríguez": [
+          "09:22:23 a. m.",
+          "01:42:23 p. m.",
+          "02:44:12 p. m.",
+          "05:59:47 p. m."
+        ],
+        "Dilan Bernal García": [
+          "11:50:52 a. m."
+        ],
+        "Fernando betancour arias": [
+          "01:21:02 p. m.",
+          "03:23:30 p. m.",
+          "04:53:53 p. m.",
+          "09:51:34 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Daniel Santos Barandica Padilla": [
+          "08:39:21 a. m.",
+          "03:02:39 p. m.",
+          "06:09:12 p. m."
+        ],
+        "Jovana Patricia De Jesús Meneses Rodríguez": [
+          "08:39:35 a. m.",
+          "02:01:13 p. m.",
+          "03:10:15 p. m.",
+          "05:17:42 p. m."
+        ],
+        "Dilan Bernal García": [
+          "02:01:20 p. m.",
+          "08:46:09 p. m."
+        ],
+        "Fernando betancour arias": [
+          "03:16:29 p. m.",
+          "09:53:47 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "Control de Acceso SL",
+    "fechas": {
+      "25/08/2025": {
+        "Juan Sarmiento Mercado": [
+          "10:15:56 a. m.",
+          "02:49:19 p. m.",
+          "04:39:34 p. m.",
+          "07:02:35 p. m."
+        ],
+        "Angel Dita": [
+          "12:18:50 p. m.",
+          "02:19:17 p. m.",
+          "05:32:40 p. m."
+        ],
+        "Jesus lobo ruiz": [
+          "01:40:23 p. m.",
+          "04:41:20 p. m.",
+          "05:55:42 p. m.",
+          "09:56:20 p. m."
+        ],
+        "Karina Escorcia Navarro": [
+          "02:04:27 p. m.",
+          "04:04:53 p. m.",
+          "05:15:25 p. m.",
+          "09:56:29 p. m."
+        ],
+        "Ana Orozco": [
+          "02:28:43 p. m.",
+          "03:58:02 p. m.",
+          "05:23:29 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Ana Orozco": [
+          "08:42:21 a. m.",
+          "10:00:09 p. m.",
+          "10:00:36 p. m."
+        ],
+        "Angel Dita": [
+          "08:42:58 a. m.",
+          "12:06:31 p. m.",
+          "02:05:55 p. m.",
+          "05:34:39 p. m."
+        ],
+        "Juan Sarmiento Mercado": [
+          "10:08:44 a. m.",
+          "02:40:58 p. m.",
+          "04:27:21 p. m.",
+          "06:34:12 p. m."
+        ],
+        "Jesus lobo ruiz": [
+          "02:08:56 p. m.",
+          "04:54:49 p. m.",
+          "06:05:38 p. m.",
+          "10:00:13 p. m."
+        ]
+      },
+      "27/08/2025": {
+        "Ana Orozco": [
+          "08:39:47 a. m.",
+          "01:52:36 p. m."
+        ],
+        "Karina Escorcia Navarro": [
+          "01:10:24 p. m.",
+          "10:05:17 p. m."
+        ],
+        "Juan Sarmiento Mercado": [
+          "01:31:00 p. m.",
+          "03:32:22 p. m.",
+          "10:05:05 p. m.",
+          "10:05:05 p. m."
+        ],
+        "Angel Dita": [
+          "01:32:14 p. m.",
+          "03:29:46 p. m.",
+          "05:02:39 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Ana Orozco": [
+          "08:42:36 a. m.",
+          "03:45:50 p. m."
+        ],
+        "Angel Dita": [
+          "08:42:57 a. m.",
+          "12:26:12 p. m.",
+          "02:33:31 p. m.",
+          "05:30:14 p. m.",
+          "05:35:24 p. m.",
+          "05:35:35 p. m.",
+          "05:35:37 p. m.",
+          "05:35:38 p. m.",
+          "05:35:39 p. m."
+        ],
+        "Juan Sarmiento Mercado": [
+          "10:09:29 a. m.",
+          "02:45:02 p. m.",
+          "04:34:55 p. m."
+        ],
+        "Jesus lobo ruiz": [
+          "01:37:43 p. m.",
+          "06:03:14 p. m.",
+          "10:08:41 p. m."
+        ],
+        "Karina Escorcia Navarro": [
+          "03:17:11 p. m.",
+          "10:09:21 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Ana Orozco": [
+          "08:41:21 a. m.",
+          "08:41:29 a. m.",
+          "02:47:05 p. m.",
+          "03:59:47 p. m.",
+          "04:01:02 p. m.",
+          "05:53:23 p. m."
+        ],
+        "Angel Dita": [
+          "08:41:45 a. m.",
+          "12:17:38 p. m.",
+          "05:38:58 p. m."
+        ],
+        "Juan Sarmiento Mercado": [
+          "10:09:54 a. m.",
+          "02:38:53 p. m.",
+          "04:25:58 p. m.",
+          "07:03:25 p. m."
+        ],
+        "Jesus lobo ruiz": [
+          "02:05:53 p. m.",
+          "04:39:22 p. m.",
+          "10:57:50 p. m."
+        ],
+        "Karina Escorcia Navarro": [
+          "02:10:53 p. m.",
+          "04:11:01 p. m.",
+          "05:30:31 p. m.",
+          "10:57:45 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Angel Dita": [
+          "08:45:17 a. m.",
+          "12:29:20 p. m.",
+          "02:48:25 p. m.",
+          "05:44:09 p. m."
+        ],
+        "Ana Orozco": [
+          "08:44:32 a. m.",
+          "03:05:56 p. m.",
+          "04:15:39 p. m.",
+          "06:00:48 p. m.",
+          "06:01:09 p. m."
+        ],
+        "Karina Escorcia Navarro": [
+          "02:34:10 p. m.",
+          "04:28:31 p. m.",
+          "05:32:40 p. m.",
+          "10:41:41 p. m."
+        ],
+        "Jesus lobo ruiz": [
+          "02:34:20 p. m.",
+          "04:49:30 p. m.",
+          "06:04:04 p. m.",
+          "10:41:17 p. m."
+        ],
+        "Juan Sarmiento Mercado": [
+          "02:58:20 p. m.",
+          "04:47:48 p. m.",
+          "07:07:25 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Karina Escorcia Navarro": [
+          "08:15:57 a. m.",
+          "10:10:20 p. m."
+        ],
+        "Angel Dita": [
+          "08:25:17 a. m.",
+          "12:39:38 p. m.",
+          "02:52:56 p. m.",
+          "05:37:40 p. m.",
+          "05:37:52 p. m."
+        ],
+        "Juan Sarmiento Mercado": [
+          "10:07:23 a. m.",
+          "03:05:04 p. m.",
+          "04:40:08 p. m.",
+          "07:13:19 p. m."
+        ],
+        "Jesus lobo ruiz": [
+          "01:49:51 p. m.",
+          "06:14:12 p. m.",
+          "10:08:57 p. m."
+        ]
+      }
+    }
+  },
+  {
+    "nombre": "KIKOS 21 AC",
+    "fechas": {
+      "25/08/2025": {
+        "Indy Meza Beleno": [
+          "09:03:39 a. m.",
+          "03:22:32 p. m."
+        ],
+        "Jose Ruda Pertuz": [
+          "12:02:31 p. m.",
+          "12:40:57 p. m.",
+          "02:16:28 p. m."
+        ],
+        "Claudia Ayala Neira": [
+          "03:19:44 p. m.",
+          "08:53:22 p. m."
+        ]
+      },
+      "26/08/2025": {
+        "Indy Meza Beleno": [
+          "09:40:37 a. m.",
+          "08:17:27 p. m."
+        ],
+        "Claudia Ayala Neira": [
+          "09:16:01 a. m."
+        ]
+      },
+      "27/08/2025": {
+        "Indy Meza Beleno": [
+          "09:01:24 a. m.",
+          "02:17:17 p. m."
+        ],
+        "Claudia Ayala Neira": [
+          "08:38:03 p. m."
+        ]
+      },
+      "28/08/2025": {
+        "Jose Ruda Pertuz": [
+          "11:54:31 a. m.",
+          "11:54:32 a. m.",
+          "12:54:04 p. m.",
+          "02:34:01 p. m.",
+          "09:16:20 p. m."
+        ],
+        "Indy Meza Beleno": [
+          "09:09:39 a. m.",
+          "04:07:45 p. m."
+        ],
+        "Claudia Ayala Neira": [
+          "03:08:49 p. m.",
+          "09:16:42 p. m."
+        ]
+      },
+      "29/08/2025": {
+        "Jose Ruda Pertuz": [
+          "12:31:51 p. m.",
+          "02:45:35 p. m.",
+          "04:25:19 p. m.",
+          "09:29:22 p. m."
+        ],
+        "Claudia Ayala Neira": [
+          "02:17:24 p. m.",
+          "09:29:27 p. m."
+        ],
+        "Indy Meza Beleno": [
+          "05:54:54 p. m."
+        ]
+      },
+      "30/08/2025": {
+        "Jose Ruda Pertuz": [
+          "11:58:43 a. m.",
+          "06:07:42 p. m.",
+          "07:04:21 p. m.",
+          "09:22:44 p. m."
+        ],
+        "Indy Meza Beleno": [
+          "05:26:04 p. m."
+        ],
+        "Claudia Ayala Neira": [
+          "09:22:38 p. m."
+        ]
+      },
+      "31/08/2025": {
+        "Indy Meza Beleno": [
+          "09:10:32 a. m.",
+          "02:47:11 p. m."
+        ],
+        "Jose Ruda Pertuz": [
+          "12:00:51 p. m.",
+          "02:32:57 p. m.",
+          "03:52:30 p. m."
+        ],
+        "Claudia Ayala Neira": [
+          "02:35:32 p. m."
+        ]
+      }
+    }
+  }
+]
